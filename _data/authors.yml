@@ -16,3 +16,12 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+
+Residuals Lab:
+  name        : "Residuals Lab"
+  email       : "jobrebound@mgmt.au.dk"
+  bio         : "Established 2024"
+  avatar      : "residuals_lab_logo_R_512.png"
+  location    : "Aarhus, Denmark"
+  employer    : "Aarhus University (BSS)"  
