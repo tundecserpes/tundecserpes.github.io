@@ -3,6 +3,7 @@ permalink: /reslab/
 title: "Residuals Lab"
 excerpt: "Residuals Lab"
 author_profile: true
+author: "Residuals Lab"
 ---
 
 The Residuals Lab (ResLab) provides a shared research architecture for projects that examine how out-of-work circumstances shape careers and organizations. We focus on social market frictions: work-relevant dynamics that originate outside formal employment but carry consequences within it. Our work depends on hard-to-combine capacities: data competence, investigative imagination, and access work. It is one thing to build a clean research design. It is another to recognize that additional institutional data beyond standard registers should exist, and then steward your way into getting it. ResLab works with people who are open to combining these capacities.
