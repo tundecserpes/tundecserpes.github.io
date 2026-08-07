@@ -1,6 +1,6 @@
 ---
 permalink: /reslab/
-title: "ResLab"
+title: "Residuals Lab"
 excerpt: "Residuals Lab"
 author_profile: true
 ---
