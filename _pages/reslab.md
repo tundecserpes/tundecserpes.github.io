@@ -14,6 +14,9 @@ Many of the datasets we use had never been accessible to researchers. On each pr
 
 ## Team
 
+### Tunde Cserpes
+Founder & Principal Investigator
+
 ### Rocio Medina
 Predoctoral Research Assistant
 
