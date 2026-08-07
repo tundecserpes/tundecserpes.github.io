@@ -14,7 +14,13 @@ Many of the datasets we use had never been accessible to researchers. On each pr
 
 ## Team
 
-Add each research assistant below.
+### Rocio Medina
+Predoctoral Research Assistant
 
-### Name
-Add photo and short bio here.
+### Miguel Atencio
+Research Assistant
+miguelatencio@mgmt.au.dk
+
+### Sara Frisk
+Research Assistant
+sfrisk@mgmt.au.dk
