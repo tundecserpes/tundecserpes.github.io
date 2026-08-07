@@ -15,7 +15,7 @@ Many of the datasets we use had never been accessible to researchers. On each pr
 ## Team
 
 ### Tunde Cserpes
-Founder & Principal Investigator | [LinkedIn](https://www.linkedin.com/in/tunde-cserpes)
+Founder & Principal Investigator | [Email](mailto:tunde.cserpes@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/tunde-cserpes)
 
 ### Rocio Medina
 Predoctoral Research Assistant
