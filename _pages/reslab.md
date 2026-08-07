@@ -1,7 +1,7 @@
 ---
 permalink: /residualslab/
 redirect_from: /reslab/
-title: "Residuals Lab"
+title: "About the Lab"
 excerpt: "Residuals Lab"
 author_profile: true
 author: "Residuals Lab"
