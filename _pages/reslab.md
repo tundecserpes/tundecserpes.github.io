@@ -22,11 +22,11 @@ Predoctoral Research Assistant
 
 ### Miguel Atencio
 Research Assistant
-miguelatencio@mgmt.au.dk | [LinkedIn](https://www.linkedin.com/in/miguelatencioa/)
+[Email](mailto:miguelatencio@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/miguelatencioa/)
 
 ### Sara Frisk
 Research Assistant
-sfrisk@mgmt.au.dk
+[Email](mailto:sfrisk@mgmt.au.dk)
 
 
 ## Alumni
