@@ -1,5 +1,6 @@
 ---
-permalink: /reslab/
+permalink: /residualslab/
+redirect_from: /reslab/
 title: "Residuals Lab"
 excerpt: "Residuals Lab"
 author_profile: true
