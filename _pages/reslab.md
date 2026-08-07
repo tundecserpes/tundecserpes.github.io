@@ -19,8 +19,20 @@ Predoctoral Research Assistant
 
 ### Miguel Atencio
 Research Assistant
-miguelatencio@mgmt.au.dk
+miguelatencio@mgmt.au.dk | [LinkedIn](https://www.linkedin.com/in/miguelatencioa/)
 
 ### Sara Frisk
 Research Assistant
 sfrisk@mgmt.au.dk
+
+
+## Alumni
+
+### Simon Klitaa Thomsen
+MSc in Finance | [LinkedIn](https://www.linkedin.com/in/simon-t-710aba194/)
+
+### Pedro Natividade Jørgensen
+MSc in Innovation Management | [LinkedIn](https://www.linkedin.com/in/pedronj/)
+
+### Avdo Mujcinovic
+MSc in Mathematics-Economics | [LinkedIn](https://www.linkedin.com/in/avdo-mujcinovic-84a5051a2/)
