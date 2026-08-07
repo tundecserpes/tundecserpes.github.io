@@ -11,23 +11,19 @@ Our projects also share a design logic. We rely on observational data and standa
 
 Many of the datasets we use had never been accessible to researchers. On each project, we add these new sources to the existing register data housed at Statistics Denmark. Gaining access often meant navigating years of procedural resistance, involving not only formal clearance processes but also the slower, informal work of building trust with the civil servants and system owners responsible for safeguarding data. The analytical payoff lies in what the combined data make visible: patterns and relationships that registers alone flatten, filter out, or simply did not capture previously.
 
-
 ## Team
 
 ### Tunde Cserpes
 Founder & Principal Investigator | [Email](mailto:tunde.cserpes@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/tunde-cserpes)
 
-### Rocio Medina
-Predoctoral Research Assistant
+### Rocio Medina Polar
+Predoctoral Research Assistant | [LinkedIn](https://www.linkedin.com/in/rocio-medina-polar/)
 
 ### Miguel Atencio
-Research Assistant
-[Email](mailto:miguelatencio@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/miguelatencioa/)
+Research Assistant | [Email](mailto:miguelatencio@mgmt.au.dk) | [LinkedIn](https://www.linkedin.com/in/miguelatencioa/)
 
 ### Sara Frisk
-Research Assistant
-[Email](mailto:sfrisk@mgmt.au.dk)
-
+Research Assistant | [Email](mailto:sfrisk@mgmt.au.dk)
 
 ## Alumni
 
