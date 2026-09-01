@@ -7,11 +7,9 @@ author_profile: true
 author: "Residuals Lab"
 ---
 
-The Residuals Lab (ResLab) provides a shared research architecture for projects that examine how out-of-work circumstances shape careers and organizations. We focus on social market frictions: work-relevant dynamics that originate outside formal employment but carry consequences within it. Our work depends on hard-to-combine capacities: data competence, investigative imagination, and access work. It is one thing to build a clean research design. It is another to recognize that additional institutional data beyond standard registers should exist, and then steward your way into getting it. ResLab works with people who are open to combining these capacities.
+In 2015, our founder sat in an econometrics classroom at Michigan State University, learning the field's golden rule: scrub the residual until it correlates with nothing else. ResLab exists because we started asking the opposite question: what if the noise is the signal? We call this the Credibility Revolution 2.0: instead of designing away human discretion to get a clean causal estimate, we design empirical research around it. We gain inspiration from [Designing Endogeneity](https://aias.au.dk/aias-fellows/collaborative-theme-groups-3-2-1-go/designing-endogeneity), our theoretical sister group, because they work out in theory what we chase in the data.
 
-Our projects also share a design logic. We rely on observational data and standard econometric tools, but we theorize from nonstandard variation. At ResLab, the residual is not noise. It is the signal of people navigating complex systems.
-
-Many of the datasets we use had never been accessible to researchers. On each project, we add these new sources to the existing register data housed at Statistics Denmark. Gaining access often meant navigating years of procedural resistance, involving not only formal clearance processes but also the slower, informal work of building trust with the civil servants and system owners responsible for safeguarding data. The analytical payoff lies in what the combined data make visible: patterns and relationships that registers alone flatten, filter out, or simply did not capture previously.
+That requires two kinds of work. Access work secures records other researchers cannot reach. Data work uses econometrics to extract credible patterns from those records without washing away the discretion we want to study. ResLab brings the two together to build empirical designs around the frictions, exceptions, and human judgment that standard approaches often treat as noise.
 
 ## Team
 
